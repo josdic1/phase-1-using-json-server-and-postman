@@ -8,7 +8,12 @@
     {
       "id": 2,
       "title": "Second Article",
-      "content": "This is also an example."
+      "content": "This is also an maybe an example."
+    },
+    {
+      "id": 3,
+      "title": "Third Article",
+      "content": "This is a third example."
     }
   ]
 }
